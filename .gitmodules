@@ -1,0 +1,9 @@
+[submodule "0.4"]
+	path = 0.4
+	url = https://github.com/ximec042/0.4.git
+[submodule "0.5"]
+	path = 0.5
+	url = https://github.com/ximec042/0.5.git
+[submodule "0.6"]
+	path = 0.6
+	url = https://github.com/ximec042/0.6.git
